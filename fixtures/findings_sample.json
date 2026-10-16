@@ -1,0 +1,4 @@
+[
+  {"category": "vuln", "cve": "CVE-2024-1001", "details": {"package": "openssl", "version": "1.0"}},
+  {"category": "anomaly", "cve": null, "details": {"signal": "impossible_travel"}}
+]

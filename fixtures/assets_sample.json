@@ -1,0 +1,4 @@
+[
+  {"name": "Payments API", "type": "service", "owner": "FinOps", "criticality": "high", "internet_exposed": true, "tags": ["pci", "prod"]},
+  {"name": "HR Portal", "type": "web", "owner": "PeopleOps", "criticality": "med", "internet_exposed": false, "tags": ["internal"]}
+]

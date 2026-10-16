@@ -1,0 +1,4 @@
+[
+  {"user": "jane", "event_type": "login", "country": "US", "ip": "1.2.3.4", "timestamp": "2026-02-24T10:00:00Z"},
+  {"user": "jane", "event_type": "login", "country": "NG", "ip": "5.6.7.8", "timestamp": "2026-02-24T10:30:00Z"}
+]

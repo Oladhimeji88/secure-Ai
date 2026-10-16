@@ -1,0 +1,6 @@
+{
+  "/alerts/page": "app/alerts/page.js",
+  "/overview/page": "app/overview/page.js",
+  "/assets/page": "app/assets/page.js",
+  "/page": "app/page.js"
+}

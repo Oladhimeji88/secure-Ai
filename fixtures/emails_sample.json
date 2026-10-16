@@ -1,0 +1,12 @@
+[
+  {
+    "sender": "ceo@paypaI-secure.com",
+    "display_name": "CEO Office",
+    "subject": "URGENT wire transfer needed now",
+    "body": "Do this in 10 minutes",
+    "spf_pass": false,
+    "dkim_pass": false,
+    "dmarc_pass": false,
+    "urls": ["http://xn--paypa-8ve.example/login"]
+  }
+]

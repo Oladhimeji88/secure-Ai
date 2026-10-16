@@ -1,0 +1,11 @@
+[
+  {
+    "host": "srv-fin-01",
+    "process_tree": ["winword.exe", "powershell.exe", "cmd.exe"],
+    "connections": [
+      {"dst": "198.51.100.10", "interval_sec": 60},
+      {"dst": "198.51.100.10", "interval_sec": 60}
+    ],
+    "persistence": ["run_key"]
+  }
+]

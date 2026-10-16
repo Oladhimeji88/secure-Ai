@@ -1,0 +1,5 @@
+[
+  {"cve": "CVE-2024-1001", "cvss": 9.8, "exploit_known": true, "patch_available": true, "category": "vuln"},
+  {"cve": "CVE-2024-2002", "cvss": 7.1, "exploit_known": false, "patch_available": true, "category": "vuln"},
+  {"cve": "CVE-2023-3003", "cvss": 8.4, "exploit_known": true, "patch_available": false, "category": "vuln"}
+]
